@@ -71,7 +71,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmk99/react-pdf-table.git"
+    "url": "git+https://github.com/eranamarante/react-pdf-table.git"
   },
   "bugs": {
     "url": "https://github.com/dmk99/react-pdf-table/issues"
